@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: "/aicx",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `AI Center of Excellency(AICx) - SLASSCOM`,
+    description: `Let's kick off your next, great open-source project with us.`,
+    author: `@ududsha`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
